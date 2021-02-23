@@ -1,1 +1,5 @@
+#jekyll config
+name: iStandaarden Github
+description: Documentatie iStandaarden Github
+markdown: kramdown
 theme: jekyll-theme-cayman

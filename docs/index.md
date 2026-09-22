@@ -44,3 +44,6 @@ Deze pagina verwijst naar de documentatie van een  aantal onderdelen.
     [:octicons-arrow-right-24: lees verder](https://istandaarden.github.io/koppelvlakspecificatie-netwerkmodel/)
 
 </div>
+
+## Meer informatie
+  - Portaal voor iStandaarden in de Zorg en Ondersteuning: [homepagina iStandaarden](https://www.istandaarden.nl)

@@ -1,19 +1,21 @@
 # Site information
-site_name: Implementatiehandleidingen Netwerkmodel
-site_url: https://istandaarden.github.io/implementatiehandleiding-netwerkmodel/
+site_name: Homepage Documentatie Netwerkmodel repostitories
+site_url: https://istandaarden.github.io/
 
 # Repository information
-repo_url: https://github.com/iStandaarden/implementatiehandleiding-netwerkmodel
-repo_name: iStandaarden/implementatiehandleiding-netwerkmodel
+# repo_url: https://github.com/iStandaarden/https://istandaarden.github.io/
+# repo_name: iStandaarden/https://istandaarden.github.io/
+
+
 
 # Theme configuration
 theme:
   name: material
   language: nl
   icon:
-    repo: fontawesome/brands/github
-    logo: material/cog-transfer-outline
-  favicon: assets/cog-transfer-outline-custom.png
+#    repo: fontawesome/brands/github
+    logo: material/home-export-outline
+  favicon: assets/home-export-outline-custom.png
   custom_dir: docs/overrides
   palette:
     # Palette toggle for automatic mode
@@ -38,15 +40,15 @@ theme:
       primary: custom
       accent: deep purple
   features:
-    - navigation.top
-    # - header.autohide
+    # - navigation.top
+    - header.autohide
     # - navigation.sections
-    - navigation.instant
+    # - navigation.instant
     - navigation.tracking
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - navigation.path
     - search.highlight
@@ -56,7 +58,7 @@ theme:
     - content.tabs.link
     - content.tooltips
     - toc.follow
-    # - toc.integrate
+    - toc.integrate
 
 # plugins
 plugins:
@@ -115,7 +117,4 @@ markdown_extensions:
 nav:
   - Welkom: 
       - index.md
-      - Versiebeheer: welkom/versiebeheer.md
-      - Release notes: welkom/release-notes.md
-  - Zorgaanbieder:
-      - zorgaanbieder/ta-zorgaanbieder.md
+

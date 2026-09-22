@@ -47,3 +47,4 @@ Deze pagina verwijst naar de documentatie van een  aantal onderdelen.
 
 ## Meer informatie
   - Portaal voor iStandaarden in de Zorg en Ondersteuning: [homepagina iStandaarden](https://www.istandaarden.nl)
+  - Over **Het Netwerkmodel iWlz**: [homepagina iStandaarden > Netwerkmodel](https://www.istandaarden.nl/algemeen/map/netwerkmodel)

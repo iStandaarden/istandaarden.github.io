@@ -25,7 +25,7 @@ Deze pagina verwijst naar de documentatie van een  aantal onderdelen.
     Handleiding(en) voor het aansluiten op het iWlz-netwerk.  
     Op dit moment is er de handleiding voor softwareleveranciers en voor zorgaanbieders die zelf software bouwen en beheren.
 
-    [:octicons-arrow-right-24: lees verder](https://istandaarden.github.io/implementatiehandleiding-netwerkmodel/)
+    [:octicons-arrow-up-right-24: lees verder](https://istandaarden.github.io/implementatiehandleiding-netwerkmodel/)
 
 -   :material-file-sign:{ .lg .middle } __Afsprakenstelsel iWlz__
 
@@ -33,7 +33,7 @@ Deze pagina verwijst naar de documentatie van een  aantal onderdelen.
 
     Het afsprakenstelsel heeft als doel deelnemers aan het iWlz-netwerkmodel op een uniforme en eenduidige wijze te informeren over de geldende afspraken, procedures en regels. Het vormt daarmee de basis voor samenwerking en gegevensuitwisseling binnen het iWlz-netwerkmodel.
 
-    [:octicons-arrow-right-24: lees verder](https://istandaarden.github.io/Afsprakenstelsel-iWlz/)
+    [:octicons-arrow-up-right-24: lees verder](https://istandaarden.github.io/Afsprakenstelsel-iWlz/)
 
 -   :material-graphql:{ .lg .middle } __Documentatie Koppelvlakspecificaties__
 
@@ -41,7 +41,7 @@ Deze pagina verwijst naar de documentatie van een  aantal onderdelen.
 
     De toegang tot de gegevens in het netwerkmodel verloopt GraphQL. Hiervoor zijn per register GraphQL specificaties opgesteld. De documentatie bij deze technische specificaties en notificaties is te vinden op de Documentatie Koppelvlakspecificaties site.
 
-    [:octicons-arrow-right-24: lees verder](https://istandaarden.github.io/koppelvlakspecificatie-netwerkmodel/)
+    [:octicons-arrow-up-right-24: lees verder](https://istandaarden.github.io/koppelvlakspecificatie-netwerkmodel/)
 
 </div>
 

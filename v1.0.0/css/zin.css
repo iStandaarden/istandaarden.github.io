@@ -8,14 +8,18 @@ a:hover {
   text-decoration: underline;
 }
 
-a[href^="http"]:not([href*="istandaarden.github.io"])::before { 
-/*a[href^="http"]:not([href*="127.0.0.1:8000/Afsprakenstelsel-iWlz"])::before { */
+a[href^="http"]:not([href*="istandaarden.github.io" i], [href*="127.0.0.1:8000" i], [href*="github.com/istandaarden" i])::before {
   content: "\2197"; /* ↗ arrow */
   display: inline-block;
   margin-right: 0.2em;
   font-size: 0.8em;
   vertical-align: super;
 }
+
+a[href^="http"]:not([href*="istandaarden.github.io" i], [href*="127.0.0.1:8000" i], [href*="github.com/istandaarden" i]) {
+  text-decoration: underline;
+}
+
 
 .mermaid svg {
   max-width: 100% !important;

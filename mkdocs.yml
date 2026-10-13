@@ -64,6 +64,12 @@ theme:
 plugins:
   - search
   - glightbox
+  - git-revision-date-localized: 
+      type: date                 
+      locale: nl_NL              
+      timezone: Europe/Amsterdam 
+      fallback_to_build_date: true
+      enable_creation_date: false
 
 # Custom CSS
 extra_css:

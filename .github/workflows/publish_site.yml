@@ -40,17 +40,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - name: Install system dependencies for WeasyPrint
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libpango-1.0-0 \
-            libpangocairo-1.0-0 \
-            libgdk-pixbuf2.0-0 \
-            libffi-dev \
-            libcairo2 \
-            shared-mime-info
-
       - run: pip install mkdocs-material mkdocs-glightbox mike mkdocs-git-revision-date-localized-plugin
 
       # --- Staging publicatie ---

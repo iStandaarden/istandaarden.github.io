@@ -1,7 +1,10 @@
 :root > * {
   --md-primary-fg-color:        #026e06;
-  --md-primary-fg-color--light: #06950a;
-  --md-primary-fg-color--dark:  #06950a;
+  --md-accent-fg-color:         #f5a624;
+}
+
+a {
+  text-decoration: none;
 }
 
 a:hover {
@@ -71,6 +74,20 @@ a[href^="http"]:not([href*="istandaarden.github.io" i], [href*="127.0.0.1:8000" 
   .md-header__center-image {
     display: none;
   }
+}
+
+/* Menu achtergrond */
+
+.md-header{
+  background-image: url("../assets/img/banner.avif");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+/* Footer section */
+.md-footer {
+  background-color: #275937 !important;
 }
 
 /* Shrink the prev/next navigation footer */

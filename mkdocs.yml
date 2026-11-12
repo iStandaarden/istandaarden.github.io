@@ -75,13 +75,10 @@ plugins:
 extra_css:
   - css/zin.css
   - css/mermaid-zoom.css
-  - css/print.css
 
 # extra JavaScript
 extra_javascript:
-  - assets/javascripts/svg-pan-zoom.min.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
-  # - assets/javascripts/mermaid-panzoom.js
   - assets/javascripts/mermaid-zoom.js
 
 extra:
